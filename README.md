@@ -4,8 +4,8 @@
 
 Ninjacart is India's largest fresh produce supply chain company, leveraging technology to solve one of the toughest supply chain challenges—delivering fresh products from farmers to businesses within 12 hours. This case study focuses on developing a robust image classification model to distinguish between different types of vegetables and filter out noisy (irrelevant) images.
 
-**Dataset
-**
+**Dataset**
+
 - The dataset consists of 3,135 images categorized into four folders, representing different vegetable types and noise.
 - Each image is preprocessed through resizing, normalization, and augmentation to improve model performance.
 
